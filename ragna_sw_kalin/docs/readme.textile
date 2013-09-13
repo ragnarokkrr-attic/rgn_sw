@@ -1,0 +1,9 @@
+h1. Java Web Services Up and Running - Martin Kalin(2009)
+
+ 
+h2. References
+
+* "SOAPpy Installation":http://www.diveintopython.net/soap_web_services/install.html
+* "Java Web Services Up and Running - Martin Kalin(2009)":http://www.amazon.com/Java-Web-Services-Up-Running/dp/059652112X
+* "http://www.jroller.com/gmazza/entry/soap_calls_over_wireshark":http://www.jroller.com/gmazza/entry/soap_calls_over_wireshark
+* "How to install a Loopback Adapter in Windows 7":http://www.windowsreference.com/windows-7/how-to-install-a-loopback-adapter-in-windows-7/

@@ -1,0 +1,10 @@
+
+h1. JAXB
+
+
+
+h2. References
+
+* "DZone - Using JAXB With XSLT to Produce HTML":http://java.dzone.com/articles/using-jaxb-xslt-produce-html
+* "Java.net - Maven 2 JAXB 2.x Plugin":https://java.net/projects/maven-jaxb2-plugin/pages/Home
+* "Lars Vogel - JAXB Tutorial":http://www.vogella.com/articles/JAXB/article.html
